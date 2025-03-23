@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.dark {
+    background-color: rgb(16, 16, 18);
+    color: rgb(201, 10, 10);
+}
+
+.lighter {
+    background-color: white;
+    color: rgb(255, 0, 0);
+}
+
+button {
+    background-color: gray;
+    color: antiquewhite;
+    width: 60px;
+    height: 30px;
+}
+
+button:hover {
+    background-color: rgb(252, 241, 241);
+    cursor: pointer;
+}
